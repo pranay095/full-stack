@@ -1,0 +1,39 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#wordContainer {
+    margin-top: 50px;
+}
+
+#word {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#textInput {
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#feedback {
+    margin-top: 10px;
+}
+
+#resultContainer {
+    display: none;
+    margin-top: 50px;
+}
+
+#speed {
+    font-size: 24px;
+    font-weight: bold;
+}

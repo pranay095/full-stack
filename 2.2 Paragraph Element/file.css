@@ -1,0 +1,18 @@
+.n {
+    background-color: seagreen;
+}
+.main {
+    display: grid;
+    grid-template-columns: 100px 400px 100px;
+    gap: 3px;
+   
+}
+.ni {
+    background-color: seagreen;
+    padding-left: 100px;
+}
+.nit {
+    background-color: seagreen;
+    order: 1;
+    grid-column: span 4;
+}
